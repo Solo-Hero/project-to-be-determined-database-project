@@ -6,6 +6,7 @@ Put details about said project here
 - Mason R. Murphy
 - Miquel Zuniga
 - Jason (Idk Last Name)
+- Javier (Idk Last Name)
 - Khai (Idk Last Name)
 - Idk Name
 - Idk Name
