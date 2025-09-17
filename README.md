@@ -1,2 +1,11 @@
-# project-to-be-determined-database-project
-This repository is for SHSU COSC 3315.01 Database Management Systems group project
+## Project Name Here
+
+Put details about said project here
+
+## Group Member Info
+- Mason R. Murphy
+- Miquel Zuniga
+- Jason (Idk Last Name)
+- Khai (Idk Last Name)
+- Idk Name
+- Idk Name
